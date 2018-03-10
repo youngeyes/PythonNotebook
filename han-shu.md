@@ -212,4 +212,4 @@ lambda [arg1[,arg2,...]]:expression
 sum = lambda x1,x2:x1 + x2
 print(sum(10,20))    #输出：30
 ```
-> Tips:匿名函数不能实现复杂逻辑的功能
+> Tips:匿名函数不能实现复杂逻辑的功能，但在后面的高阶函数中用的很多。
