@@ -10,4 +10,5 @@
 * [列表](/list.md)
 * [元祖](yuan-zu.md)
 * [字典](zi-dian.md)
+* [函数](han-shu.md)
 
